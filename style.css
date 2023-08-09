@@ -1,0 +1,28 @@
+
+    @font-face{
+        font-family:'Merriweat'
+}
+
+
+
+a{
+    color: purple;
+    text-decoration-line:  underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+    text-decoration-thickness:3px;
+  text-transform: capitalize;
+    text-shadow: -5px -4px 1px red;
+     
+}
+
+
+p{
+    text-indent: 50px;
+     
+    word-spacing: 5px;
+    line-height: 200%;
+    white-space: pre-line;
+    font-family:  cursive;
+
+}
